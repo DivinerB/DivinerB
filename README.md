@@ -71,8 +71,8 @@
 ### Top Repositories
 
 
-<a href="https://github.com/DivinerB/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DivinerB&repo=Express-Postgres-blog&theme=algolia" />
+<a href="https://github.com/DivinerB/Animation-mimic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DivinerB&repo=Animation-mimic&theme=algolia" />
 </a>
 <!---
 DivinerB/DivinerB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
