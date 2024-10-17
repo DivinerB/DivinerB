@@ -71,7 +71,7 @@
 ### Top Repositories
 
 
-<a href="https://github.com/DivinerB/developer-portfolio">
+<a href="https://github.com/DivinerB/Animation-mimic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DivinerB&repo=developer-portfolio&theme=algolia" />
 </a>
 <!-- <a href="https://github.com/DivinerB/Express-Postgres-blog">
