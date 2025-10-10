@@ -6,11 +6,11 @@
 
 ![](https://komarev.com/ghpvc/?username=DivinerB&color=brightgreen&abbreviated=true)
 
-- 🔭 Focusing on (AI + Data + Backend).😎
-- 🌱 Trying to become an expert in Data Engineering ❤
+- 🔭 Focusing on (AI + Backend + Data).😎
+- 🌱 Trying to become an expert in Tennis ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- ⚡ Fun fact: First I will listen you carefully and show result.🤣
+- ⚡ Fun fact: First I will listen to you carefully and show something great.🤣
 
 ---
 
