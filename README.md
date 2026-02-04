@@ -48,7 +48,7 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DivinerB&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DivinerB&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="DivinerB's GitHub status" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivinerB&theme=algolia" alt="DivinerB" />
